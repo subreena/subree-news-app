@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    padding: 20px;
+    border-bottom: 2px solid lightgrey;
+}
+
+.text h1{
+    color: rgb(0, 110, 255);
+    margin-block-end: 0.1em;
+}
+
+.text p{
+    color: #ea7500;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}

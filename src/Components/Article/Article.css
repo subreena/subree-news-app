@@ -1,0 +1,14 @@
+.article-main{
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+article-content{
+    display: flex;
+}
+
+
+Card {
+    display: flex;
+    margin: 20px 10px;
+}
